@@ -1,0 +1,20 @@
+{
+  "name": "sendpoint",
+  "version": "1.0.0",
+  "description": "The Form Submission Endpoint",
+  "author": "Tim Wheeler <tim@timwheeler.com> (https://timwheeler.com)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sendpoint/sendpoint.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sendpoint/sendpoint/issues"
+  },
+  "homepage": "https://github.com/sendpoint/sendpoint#readme"
+}
