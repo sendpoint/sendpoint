@@ -1,2 +1,2 @@
 # sendpoint
-Placeholder
+The Form Submission Endpoint
